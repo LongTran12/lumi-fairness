@@ -94,7 +94,10 @@ const App = () => {
         </button>
       </div>
       <div className="ctx-result">
-        <p>{result}</p>
+        <p>Result: {result}</p>
+      </div>
+      <div className="ctx-repo">
+        <p>Link repo: <a href="https://github.com/LongTran12/lumi-fairness" >Github</a></p>
       </div>
     </Wrap>
   )
@@ -141,5 +144,8 @@ const Wrap = styled.div`
             font-size: 30px;
             font-weight: bold;
         }
+    }
+    .ctx-repo{
+      text-align: center;
     }
 `
