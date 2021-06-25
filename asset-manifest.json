@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lumi-fairness/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/lumi-fairness/static/js/main.4605a80f.chunk.js",
-    "main.js.map": "/lumi-fairness/static/js/main.4605a80f.chunk.js.map",
+    "main.js": "/lumi-fairness/static/js/main.43f0a96b.chunk.js",
+    "main.js.map": "/lumi-fairness/static/js/main.43f0a96b.chunk.js.map",
     "runtime-main.js": "/lumi-fairness/static/js/runtime-main.6e70eba6.js",
     "runtime-main.js.map": "/lumi-fairness/static/js/runtime-main.6e70eba6.js.map",
     "static/js/2.eff9bd70.chunk.js": "/lumi-fairness/static/js/2.eff9bd70.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6e70eba6.js",
     "static/js/2.eff9bd70.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.4605a80f.chunk.js"
+    "static/js/main.43f0a96b.chunk.js"
   ]
 }
