@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lumi-fairness/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/lumi-fairness/static/js/main.4605a80f.chunk.js",
+    "main.js.map": "/lumi-fairness/static/js/main.4605a80f.chunk.js.map",
+    "runtime-main.js": "/lumi-fairness/static/js/runtime-main.6e70eba6.js",
+    "runtime-main.js.map": "/lumi-fairness/static/js/runtime-main.6e70eba6.js.map",
+    "static/js/2.eff9bd70.chunk.js": "/lumi-fairness/static/js/2.eff9bd70.chunk.js",
+    "static/js/2.eff9bd70.chunk.js.map": "/lumi-fairness/static/js/2.eff9bd70.chunk.js.map",
+    "static/js/3.b498dd11.chunk.js": "/lumi-fairness/static/js/3.b498dd11.chunk.js",
+    "static/js/3.b498dd11.chunk.js.map": "/lumi-fairness/static/js/3.b498dd11.chunk.js.map",
+    "index.html": "/lumi-fairness/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/lumi-fairness/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.eff9bd70.chunk.js.LICENSE.txt": "/lumi-fairness/static/js/2.eff9bd70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e70eba6.js",
+    "static/js/2.eff9bd70.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4605a80f.chunk.js"
+  ]
+}
